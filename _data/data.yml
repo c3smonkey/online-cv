@@ -32,163 +32,182 @@ sidebar:
         level: Business fluent
 
     interests:
-      - item: Climbing
+      - item: Thai-Boxing
         link:
 
-      - item: Snowboarding
+      - item: New Technology (Hacking/Coding)
         link:
 
-      - item: Cooking
+      - item: Dogs
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Ich bin Softwareentwickler mit über 20 Jahren Erfahrung in der Finanz-, Versicherung & Krankenversicherung Branche.
+      Meine Leidenschaft ist das ganze Thema um Cloud Computing (Spring Cloud), Microservice Architektur, Openshift wie auch die Verwendung von Open Source Stacks.
+      Aktuell spreche ich am liebsten `Kotlin` aufgewachsen bin ich aber mit der Sprache `Java`. Seit 2018 spreche ich aber eigentlich nur noch `Kotlin`
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Software Testing For Application Developer
+      university: The George Washington University School of Business
+      time: 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Business Analyst Project Leiten Fundation Level, International Business Analyst Education (IBAE)
+      university: [https://www.ifa.ch/](IFA Höhere Fachschule für Wirtschaft und Technik)
+      time: 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+    - degree: Business Analyst Prozesse Modellieren/Darstellen Fundation Level, International Business Analyst Education (IBAE)
+        university: [https://www.ifa.ch/](IFA Höhere Fachschule für Wirtschaft und Technik)
+        time: 2009
+        details: |
+
+    - degree: Informatiker mit eidg. Fachausweis - Fachrichtung Web Development
+        university: [https://www.ifa.ch/](IFA Höhere Fachschule für Wirtschaft und Technik)
+        time: 2007
+        details: |
+
+    - degree: SAQ Certified Software Tester Fundation Level / ISTQB-Certified-Tester
+        university: [https://www.ifa.ch/](IFA Höhere Fachschule für Wirtschaft und Technik)
+        time: 2007
+        details: |
+
+    - degree: Java Programmer
+        university: Hochschule für Technik Zürich
+        time: 2003
+        details: |
+
+    - degree: Webmaster SIZ
+        university: [SIZ AG, Schweizerisches Informatik-Zertifikat](https://www.siz.ch/)
+        time: 2001
+        details: |
+
+    - degree: PC/LAN Supporter SIZ
+        university: [SIZ AG, Schweizerisches Informatik-Zertifikat](https://www.siz.ch/)
+        time: 1999
+        details: |
+
+    - degree: PC/LAN Supporter SIZ
+        university: [SIZ AG, Schweizerisches Informatik-Zertifikat](https://www.siz.ch/)
+        time: 1999
+        details: |
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+  - role: Kotlin / Java Backend Developer & Lead Front Service Layer Application Architect
+    time: 2013 - Present
+    company: [Helsana Versicherungen AG](https://www.helsana.ch/de/private)
+    details: |
+      Migration von Cloud Native Application (SpringBoot) auf eine [Openshift](https://www.openshift.com/) wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen im Produkt myHelsana.
 
-          - Bullet point
-          - Bullet point
+      Erarbeiten der "Online Applikation Architektur" (Front Service Layer FSL) für die Helsana,
+      wie auch deren Umsetzung in diversen Projekten n-tier Architecture wie auch Microservices Architecture mit Spring Boot und Spring Cloud Native Libraries wie Zuul (Edge Server etc.)
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+      Java Lead Engineer, Koordination interne und externe Java Entwickler.
+      Etablieren von Best-Practices und State of the Art (JIRA, Git, Jenkins CI/CD, Maven, SpringBoot, Sonar)
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+  - role: Application Architect & Java Developer
+    time: 2007 - 2013
+    company: [Credit Suisse](https://www.credit-suisse.com/ch/de.html)
+    details: |
+        - Unterstützung des Fachpersonal im Bereich Java (Java Spezialist)
+        - Analyse von Problemen der Java Applikationsentwickler und Support (multi-tier architecture)
+        - Beratung und Unterstützung von J2EE Applikationen bei der Anwendung des Core Frameworks
+        - Analyse und Design von neuen Core Framework Komponenten und Migrationen
+        - Entwicklung und Erweiterung von Core Framework Komponenten (J2EE/Pattern)
+        - Release/Lieferung und Testen des Core Framework
+        - Erstellen von Sample Applikationen mit CS-JSF
+        - Erstellung eines CS Eclipse Plug-Ins (XML Validator Rule Engine)
+        - Fachvorgesetzter/Berufsbildner 4. Lehrjahr Lehrling. Ausarbeitung und Durchführung der IPA (Individuelle Praktische Arbeit)
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        - [myHelsana](http://helsana.ch/myhelsana)
+        - [easySales](https://portal.helsana.ch/offer/#/)
+        - [Kampagne Framework](https://www.helsana.ch)
+        - [Micrsosites Price Component](https://www.helsana.ch/de/private/versicherungen/grundversicherung/basis?d=s142l1) (RESTFul/HATEOAS)
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: myHelsana
+        link: "http://helsana.ch/myhelsana"
+        tagline: "Kundenportal der Helsana Versicherung AG"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: easySales
+        link: "https://portal.helsana.ch/offer/#/"
+        tagline: "Online Preisrechner der Helsana Versicherung AG"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Kampagne Framework
+        link: "https://www.helsana.ch"
+        tagline: "Kampagne Framework für die Helsana Versicherung AG"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Micrsosites Price Component
+        link: "https://www.helsana.ch/de/private/versicherungen/grundversicherung/basis?d=s142l1"
+        tagline: "Online Preisrechner für die Helsana Versicherung AG"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#publications:
+#    title: Publications
+#    intro: |
+#
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Marcel Widmer
+#        conference: Addison-Wesley, 1968
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Kotlin
-        level: 70%
+        level: 80%
 
       - name: Java
         level: 80%
 
-      - name: Angular /  ReactJS
+      - name: TypeScript
+        level: 30%
+
+      - name: Spring Boot 1.x / 2.x
+        level: 90%
+
+      - name: Spring Cloud Native
+        level: 70%
+
+      - name: Openshift / OKD
+        level: 50%
+
+      - name: Delivery Pipeline
+        level: 50%
+
+      - name: Git
+        level: 80%
+
+      - name: Maven
+        level: 80%
+
+      - name: Gradle
         level: 10%
 
-      - name: HTML5 & CSS
-        level: 40%
+      - name: Intellij / Eclipse
+        level: 80%
 
-      - name: Photoshop
-        level: 10%
+      - name: RESTFul Web API Design / HATEOAS
+        level: 70%
+
+      - name: Microservice Architecture
+        level: 70%
+
+      - name: DevOps
+        level: 80%
+
+      - name: Scrum / Agile
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
