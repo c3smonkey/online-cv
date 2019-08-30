@@ -14,15 +14,15 @@ sidebar:
     # Sidebar links
     email: marzelwidmer@gmail.com
 #    phone: -
-    website: docs.marcelwimder.org #do not add http://
+    website: docs.marcelwidmer.org/ #do not add http://
     linkedin: marcel-widmer-180ab354
     github: marzelwidmer
-    gitlab:
-    bitbucket:
+#    gitlab:
+#    bitbucket:
 #    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: German
