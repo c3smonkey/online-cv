@@ -123,6 +123,50 @@ experiences:
         - Erstellung eines CS Eclipse Plug-Ins (XML Validator Rule Engine)
         - Fachvorgesetzter/Berufsbildner 4. Lehrjahr Lehrling. Ausarbeitung und Durchführung der IPA (Individuelle Praktische Arbeit)
 
+  - role: Professional System Controller
+    time: 2003 - 2007
+    company: Credit Suisse
+    details: |
+        - Monitoring zentraler und dezentraler NT/W2K und SUN/AIX-Servern
+        - Monitoring des ganzen Netzwerks (SNA, TCP/IP)
+        - Monitoring diverser Server Applikationen
+        - Projekt mitarbeiten als Yellow Belt Lean Sigma (DMAEC) in OE Projekten (Operational Excellence)
+        - Planung, Entwicklung, Realisierung der Reporting Tool Webapplikation
+
+
+  - role: Professional System Controller
+    time: 2003 - 2007
+    company: Credit Suisse
+    details: |
+        - Monitoring zentraler und dezentraler NT/W2K und SUN/AIX-Servern
+        - Monitoring des ganzen Netzwerks (SNA, TCP/IP)
+        - Monitoring diverser Server Applikationen
+        - Projekt mitarbeiten als Yellow Belt Lean Sigma (DMAEC) in OE Projekten (Operational Excellence)
+        - Planung, Entwicklung, Realisierung der Reporting Tool Webapplikation
+
+  - role: Unix Administrator / Webmaster /Webpublisher
+    time: 2001 - 2003
+    company: AXA Versicherung / Winterthur Versicherungen
+    details: |
+        - Installation, Wartung, Backup, Support und Administrator verschiedener Systeme (Sun Solaris, Unix, Apache Webserver, Tomcat)
+        - Programmierung Perl / Shell Script
+        - WebMastering, WebPublishing und Release des Front Systems e-Business
+        - Planung, Entwicklung, Realisierung und Support der Webapplikation (eCommunity) mit PHP und MySQL
+
+  - role: System Controller 1st and 2nd Level
+    time: 1999 - 2001
+    company: AXA Versicherung / Winterthur Versicherungen
+    details: |
+        - User Support (Reparaturen, Installationen, Administration von Windows NT Servern, Workstations und HP-Unix, Oracle Datenbank)
+        - Release Manager MTV (Eurotax)
+
+  - role: CAD-CAM Programmer
+    time: 1996 - 1999
+    company: Adval Tech / AWM Wekzeugbau
+    details: |
+        - Programmierung der CNC-Fräsmaschinen (ISO, CAD, CAM)
+        - Herstellung von Präzisions-Spritzguss Werkzeugen
+
 projects:
     title: Projects
     intro: >
