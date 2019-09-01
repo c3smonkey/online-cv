@@ -2,7 +2,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar:
+sidebar: 
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: marzelwidmer@gmail.com
 #    phone: -
-    website: docs.marcelwidmer.org/ #do not add http://
+    website: blog.marcelwidmer.org/ #do not add http://
     linkedin: marcel-widmer-180ab354
     github: marzelwidmer
 #    gitlab:
@@ -69,7 +69,7 @@ education:
       time: 2007
       details: |
 
-    - degree: SAQ Certified Software Tester Fundation Level / ISTQB-Certified-Tester
+    - degree: SAQ Certified Software Tester Fundation Level, ISTQB-Certified-Tester
       university: IFA Höhere Fachschule für Wirtschaft und Technik
       time: 2007
       details: |
