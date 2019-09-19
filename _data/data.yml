@@ -108,7 +108,7 @@ experiences:
     time: 2013 - 2018
     company: Helsana Versicherungen AG
     details: |
-      - Erarbeiten der "Online Applikation Architektur" (Front Service Layer FSL) für die Helsana, wie auch deren Umsetzung in diversen Projekten n-tier Architecture wie auch Microservices Architecture mit Spring Boot und Spring Cloud Native Libraries wie Zuul (Edge Server etc.)
+      - Erarbeiten der `Online Applikation Architektur` (Front Service Layer FSL) für die Helsana, wie auch deren Umsetzung in diversen Projekten n-tier Architecture wie auch Microservices Architecture mit Spring Boot und Spring Cloud Native Libraries wie Zuul (Edge Server etc.)
       - Java Lead Engineer, Koordination interne und externe Java Entwickler. Etablieren von Best-Practices und State of the Art
         - JIRA
         - Git
