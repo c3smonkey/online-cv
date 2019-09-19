@@ -102,7 +102,7 @@ experiences:
       - Produkt Organisation _[myHelsana](https://myhelsana.ch/)_ (BizDevOps)
       - Migration von Cloud Native Application (Spring Boot / Kotlin) auf _[Openshift](https://www.openshift.com/)_
       wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen.
-      - Microservices bereitstellen für `Angular` frontend wie auch `Native Mobile iOS` und  `Native Mobile Android` App.
+      - Microservices bereitstellen für `Angular` frontend wie auch Native Mobile `iOS` und `Android` App.
 
   - role: Application Architect & Java Developer
     time: 2013 - 2018
