@@ -2,101 +2,109 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar: 
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+sidebar:
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Marcel Widmer
-    tagline: Kotlin / Java Backend Developer
-    avatar: Me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Marcel Widmer
+  tagline: Kotlin / Java Backend Developer
+  avatar: Me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: marzelwidmer@gmail.com
-#    phone: -
-    website: blog.marcelwidmer.org/ #do not add http://
-    linkedin: marcel-widmer-180ab354
-    github: marzelwidmer
-#    gitlab:
-#    bitbucket:
-#    twitter: '@webjeda'
-#    stack-overflow: # Number/Username, e.g. 123456/alandoe
-#    codewars:
-#    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: marzelwidmer@gmail.com
+  #    phone: -
+  website: blog.marcelwidmer.org/ #do not add http://
+  linkedin: marcel-widmer-180ab354
+  github: marzelwidmer
+  #    gitlab:
+  #    bitbucket:
+  #    twitter: '@webjeda'
+  #    stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #    codewars:
+  #    goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: German
-        level: Native
+  languages:
+    - idiom: German
+      level: Native
 
-      - idiom: English
-        level: Business fluent
+    - idiom: English
+      level: Business fluent
 
-    interests:
-      - item: Thai-Boxing
-        link:
+  interests:
+    - item: Thai-Boxing
+      link:
 
-      - item: New Technology (Hacking/Coding)
-        link:
+    - item: New Technology (Hacking/Coding)
+      link:
 
-      - item: Dogs
-        link:
+    - item: Dogs
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Ich bin Softwareentwickler mit über 20 Jahren Erfahrung in der Finanz-, Versicherung & Krankenversicherung Branche.
-      Meine Leidenschaft ist das ganze Thema mit `Spring Boot` und Cloud Computing (Spring Cloud), `Microservice Architektur`, `Openshift` wie auch die Verwendung von Open Source Stacks.
-      Aktuell spreche ich am liebsten `Kotlin` aufgewachsen bin ich aber mit der Sprache `Java`. Seit 2018 spreche ich aber eigentlich nur noch `Kotlin`
+  title: Career Profile
+  summary: |
+    Ich bin Softwareentwickler mit über 20 Jahren Erfahrung in der Finanz-, Versicherung & Krankenversicherung Branche.
+    Meine Leidenschaft ist das ganze Thema mit `Spring Boot` und Cloud Computing (Spring Cloud), `Microservice Architektur`, `Openshift` wie auch die Verwendung von Open Source Stacks.
+    Aktuell spreche ich am liebsten `Kotlin` aufgewachsen bin ich aber mit der Sprache `Java`. Seit 2018 spreche ich aber eigentlich nur noch `Kotlin`
 
 education:
-    - degree: Software Testing For Application Developer
-      university: The George Washington University School of Business
-      time: 2012
-      details: |
+  - degree: Software Testing For Application Developer
+    university: The George Washington University School of Business
+    time: 2012
+    details: |
 
-    - degree: Business Analyst Project Leiten Fundation Level, International Business Analyst Education (IBAE)
-      university: IFA Höhere Fachschule für Wirtschaft und Technik
-      time: 2009
-      details: |
+  - degree: Business Analyst Project Leiten Fundation Level, International Business Analyst Education (IBAE)
+    university: IFA Höhere Fachschule für Wirtschaft und Technik
+    time: 2009
+    details: |
 
-    - degree: Business Analyst Prozesse Modellieren/Darstellen Fundation Level, International Business Analyst Education (IBAE)
-      university: IFA Höhere Fachschule für Wirtschaft und Technik
-      time: 2009
-      details: |
+  - degree: Business Analyst Prozesse Modellieren/Darstellen Fundation Level, International Business Analyst Education (IBAE)
+    university: IFA Höhere Fachschule für Wirtschaft und Technik
+    time: 2009
+    details: |
 
-    - degree: Informatiker mit eidg. Fachausweis - Fachrichtung Web Development
-      university: IFA Höhere Fachschule für Wirtschaft und Technik
-      time: 2007
-      details: |
+  - degree: Informatiker mit eidg. Fachausweis - Fachrichtung Web Development
+    university: IFA Höhere Fachschule für Wirtschaft und Technik
+    time: 2007
+    details: |
 
-    - degree: SAQ Certified Software Tester Fundation Level, ISTQB-Certified-Tester
-      university: IFA Höhere Fachschule für Wirtschaft und Technik
-      time: 2007
-      details: |
+  - degree: SAQ Certified Software Tester Fundation Level, ISTQB-Certified-Tester
+    university: IFA Höhere Fachschule für Wirtschaft und Technik
+    time: 2007
+    details: |
 
-    - degree: Java Programmer
-      university: Hochschule für Technik Zürich
-      time: 2003
-      details: |
+  - degree: Java Programmer
+    university: Hochschule für Technik Zürich
+    time: 2003
+    details: |
 
-    - degree: Webmaster SIZ
-      university: SIZ AG, Schweizerisches Informatik-Zertifikat
-      time: 2001
-      details: |
+  - degree: Webmaster SIZ
+    university: SIZ AG, Schweizerisches Informatik-Zertifikat
+    time: 2001
+    details: |
 
-    - degree: PC/LAN Supporter SIZ
-      university: SIZ AG, Schweizerisches Informatik-Zertifikat
-      time: 1999
-      details: |
+  - degree: PC/LAN Supporter SIZ
+    university: SIZ AG, Schweizerisches Informatik-Zertifikat
+    time: 1999
+    details: |
 
-    - degree: PC/LAN Supporter SIZ
-      university: SIZ AG, Schweizerisches Informatik-Zertifikat
-      time: 1999
-      details: |
+  - degree: PC/LAN Supporter SIZ
+    university: SIZ AG, Schweizerisches Informatik-Zertifikat
+    time: 1999
+    details: |
 
 experiences:
   - role: Kotlin - Java Backend Developer
-    time: 2013 - Present
+    time: 2019 - Present
+    company: Helsana Versicherungen AG
+    details: |
+      - Produkt Organisation myHelsana (BizDevOps)
+      - Migration von Cloud Native Application (SpringBoot) auf eine [Openshift](https://www.openshift.com/)
+      wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen im Produkt myHelsana.
+
+  - role: Application Architect & Java Developer
+    time: 2013 - 2019
     company: Helsana Versicherungen AG
     details: |
       - Migration von Cloud Native Application (SpringBoot) auf eine [Openshift](https://www.openshift.com/) wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen im Produkt myHelsana.
@@ -113,69 +121,69 @@ experiences:
     time: 2007 - 2013
     company: Credit Suisse
     details: |
-        - Unterstützung des Fachpersonal im Bereich Java (Java Spezialist)
-        - Analyse von Problemen der Java Applikationsentwickler und Support (multi-tier architecture)
-        - Beratung und Unterstützung von J2EE Applikationen bei der Anwendung des Core Frameworks
-        - Analyse und Design von neuen Core Framework Komponenten und Migrationen
-        - Entwicklung und Erweiterung von Core Framework Komponenten (J2EE/Pattern)
-        - Release/Lieferung und Testen des Core Framework
-        - Erstellen von Sample Applikationen mit CS-JSF
-        - Erstellung eines CS Eclipse Plug-Ins (XML Validator Rule Engine)
-        - Fachvorgesetzter/Berufsbildner 4. Lehrjahr Lehrling. Ausarbeitung und Durchführung der IPA (Individuelle Praktische Arbeit)
+      - Unterstützung des Fachpersonal im Bereich Java (Java Spezialist)
+      - Analyse von Problemen der Java Applikationsentwickler und Support (multi-tier architecture)
+      - Beratung und Unterstützung von J2EE Applikationen bei der Anwendung des Core Frameworks
+      - Analyse und Design von neuen Core Framework Komponenten und Migrationen
+      - Entwicklung und Erweiterung von Core Framework Komponenten (J2EE/Pattern)
+      - Release/Lieferung und Testen des Core Framework
+      - Erstellen von Sample Applikationen mit CS-JSF
+      - Erstellung eines CS Eclipse Plug-Ins (XML Validator Rule Engine)
+      - Fachvorgesetzter/Berufsbildner 4. Lehrjahr Lehrling. Ausarbeitung und Durchführung der IPA (Individuelle Praktische Arbeit)
 
   - role: Professional System Controller
     time: 2003 - 2007
     company: Credit Suisse
     details: |
-        - Monitoring zentraler und dezentraler NT/W2K und SUN/AIX-Servern
-        - Monitoring des ganzen Netzwerks (SNA, TCP/IP)
-        - Monitoring diverser Server Applikationen
-        - Projekt mitarbeiten als Yellow Belt Lean Sigma (DMAEC) in OE Projekten (Operational Excellence)
-        - Planung, Entwicklung, Realisierung der Reporting Tool Webapplikation
+      - Monitoring zentraler und dezentraler NT/W2K und SUN/AIX-Servern
+      - Monitoring des ganzen Netzwerks (SNA, TCP/IP)
+      - Monitoring diverser Server Applikationen
+      - Projekt mitarbeiten als Yellow Belt Lean Sigma (DMAEC) in OE Projekten (Operational Excellence)
+      - Planung, Entwicklung, Realisierung der Reporting Tool Webapplikation
 
   - role: Unix Administrator / Webmaster / Webpublisher
     time: 2001 - 2003
     company: AXA Versicherung / Winterthur Versicherungen
     details: |
-        - Installation, Wartung, Backup, Support und Administrator verschiedener Systeme (Sun Solaris, Unix, Apache Webserver, Tomcat)
-        - Programmierung Perl / Shell Script
-        - WebMastering, WebPublishing und Release des Front Systems e-Business
-        - Planung, Entwicklung, Realisierung und Support der Webapplikation (eCommunity) mit PHP und MySQL
+      - Installation, Wartung, Backup, Support und Administrator verschiedener Systeme (Sun Solaris, Unix, Apache Webserver, Tomcat)
+      - Programmierung Perl / Shell Script
+      - WebMastering, WebPublishing und Release des Front Systems e-Business
+      - Planung, Entwicklung, Realisierung und Support der Webapplikation (eCommunity) mit PHP und MySQL
 
   - role: System Controller 1st and 2nd Level
     time: 1999 - 2001
     company: AXA Versicherung / Winterthur Versicherungen
     details: |
-        - User Support (Reparaturen, Installationen, Administration von Windows NT Servern, Workstations und HP-Unix, Oracle Datenbank)
-        - Release Manager MTV (Eurotax)
+      - User Support (Reparaturen, Installationen, Administration von Windows NT Servern, Workstations und HP-Unix, Oracle Datenbank)
+      - Release Manager MTV (Eurotax)
 
   - role: CAD-CAM Programmer
     time: 1996 - 1999
     company: Adval Tech / AWM Wekzeugbau
     details: |
-        - Programmierung der CNC-Fräsmaschinen (ISO, CAD, CAM)
-        - Herstellung von Präzisions-Spritzguss Werkzeugen
+      - Programmierung der CNC-Fräsmaschinen (ISO, CAD, CAM)
+      - Herstellung von Präzisions-Spritzguss Werkzeugen
 
 projects:
-    title: Projects
-    intro: >
+  title: Projects
+  intro: >
 
-    assignments:
-      - title: myHelsana
-        link: "http://helsana.ch/myhelsana"
-        tagline: "Kundenportal der Helsana Versicherung AG"
+  assignments:
+    - title: myHelsana
+      link: "http://helsana.ch/myhelsana"
+      tagline: "Kundenportal der Helsana Versicherung AG"
 
-      - title: easySales
-        link: "https://portal.helsana.ch/offer/#/"
-        tagline: "Online Preisrechner der Helsana Versicherung AG"
+    - title: easySales
+      link: "https://portal.helsana.ch/offer/#/"
+      tagline: "Online Preisrechner der Helsana Versicherung AG"
 
-      - title: Kampagne Framework
-        link: "https://www.helsana.ch"
-        tagline: "Kampagne Framework für die Helsana Versicherung AG"
+    - title: Kampagne Framework
+      link: "https://www.helsana.ch"
+      tagline: "Kampagne Framework für die Helsana Versicherung AG"
 
-      - title: Micrsosites Price Component
-        link: "https://www.helsana.ch/de/private/versicherungen/grundversicherung/basis?d=s142l1"
-        tagline: "Online Preisrechner für die Helsana Versicherung AG"
+    - title: Micrsosites Price Component
+      link: "https://www.helsana.ch/de/private/versicherungen/grundversicherung/basis?d=s142l1"
+      tagline: "Online Preisrechner für die Helsana Versicherung AG"
 
 #publications:
 #    title: Publications
@@ -191,53 +199,53 @@ projects:
 #        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Kotlin
-        level: 80%
+  toolset:
+    - name: Kotlin
+      level: 80%
 
-      - name: Java
-        level: 80%
+    - name: Java
+      level: 80%
 
-      - name: TypeScript
-        level: 30%
+    - name: TypeScript
+      level: 30%
 
-      - name: Spring Boot 1.x / 2.x
-        level: 90%
+    - name: Spring Boot 1.x / 2.x
+      level: 90%
 
-      - name: Spring Cloud Native
-        level: 70%
+    - name: Spring Cloud Native
+      level: 70%
 
-      - name: Openshift / OKD
-        level: 50%
+    - name: Openshift / OKD
+      level: 50%
 
-      - name: Delivery Pipeline
-        level: 50%
+    - name: Delivery Pipeline
+      level: 50%
 
-      - name: Git
-        level: 80%
+    - name: Git
+      level: 80%
 
-      - name: Maven
-        level: 80%
+    - name: Maven
+      level: 80%
 
-      - name: Gradle
-        level: 10%
+    - name: Gradle
+      level: 10%
 
-      - name: Intellij / Eclipse
-        level: 80%
+    - name: Intellij / Eclipse
+      level: 80%
 
-      - name: Web API Design
-        level: 70%
+    - name: Web API Design
+      level: 70%
 
-      - name: Microservice Architecture
-        level: 70%
+    - name: Microservice Architecture
+      level: 70%
 
-      - name: DevOps
-        level: 80%
+    - name: DevOps
+      level: 80%
 
-      - name: Scrum / Agile
-        level: 80%
+    - name: Scrum / Agile
+      level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
