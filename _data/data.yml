@@ -100,14 +100,14 @@ experiences:
     company: Helsana Versicherungen AG
     details: |
       - Produkt Organisation myHelsana (BizDevOps)
-      - Migration von Cloud Native Application (SpringBoot) auf eine [Openshift](https://www.openshift.com/)
+      - Migration von Cloud Native Application (Spring Boot) auf eine [Openshift](https://www.openshift.com/)
       wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen im Produkt myHelsana.
 
   - role: Application Architect & Java Developer
     time: 2013 - 2019
     company: Helsana Versicherungen AG
     details: |
-      - Migration von Cloud Native Application (SpringBoot) auf eine [Openshift](https://www.openshift.com/) wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen im Produkt myHelsana.
+      - Migration von Cloud Native Application (Spring Boot) auf eine [Openshift](https://www.openshift.com/) wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen im Produkt myHelsana.
       - Erarbeiten der "Online Applikation Architektur" (Front Service Layer FSL) für die Helsana, wie auch deren Umsetzung in diversen Projekten n-tier Architecture wie auch Microservices Architecture mit Spring Boot und Spring Cloud Native Libraries wie Zuul (Edge Server etc.)
       - Java Lead Engineer, Koordination interne und externe Java Entwickler. Etablieren von Best-Practices und State of the Art
         - JIRA
@@ -115,7 +115,7 @@ experiences:
         - Jenkins CI/CD
         - Maven
         - Sonar
-        - SpringBoot
+        - Spring Boot
 
   - role: Application Architect & Java Developer
     time: 2007 - 2013
