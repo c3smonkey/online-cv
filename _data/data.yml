@@ -105,17 +105,39 @@ experiences:
       - Microservices bereitstellen für `Angular` Frontend, wie auch Native Mobile `iOS` und `Android` App.
 
   - role: Application Architect & Java Developer
-    time: 2013 - 2018
+    time: 2015 - 2018
     company: Helsana Versicherungen AG
     details: |
-      - Erarbeiten der `Online Applikation Architektur` (Front Service Layer FSL) für die Helsana, wie auch deren Umsetzung in diversen Projekten n-tier Architecture wie auch Microservices Architecture mit Spring Boot und Spring Cloud Native Libraries wie Zuul (Edge Server etc.)
-      - Java Lead Engineer, Koordination interne und externe Java Entwickler. Etablieren von Best-Practices und State of the Art
-        - JIRA
-        - Git
-        - Jenkins CI/CD
-        - Maven
-        - Sonar
-        - Spring Boot
+      - Koordination interner und externer Java-Entwickler in Umsetzungsprojekten im Rahmen von agilen Vorgehensmethoden.
+      - Review der erstellten Lieferobjekte wie auch Definition und Umsetzung von Verbesserungsmassnahmen.
+      - Definition wie auch Ausarbeitung der Grob- und Detailkonzeption der Helsana Applikationsarchitektur, inklusive Umsetzung auf Basis Spring Boot und Angular.
+      - Umsetzung von fachlichen Microservices (auftrag-bridge, offer-bridge, order-service, zipkin-server) auf der Basis von Spring Boot, Spring Cloud, REST, HATEOAS, MongoDB wie auch weiteren JEE Technologien.
+      - Konzeption, Umsetzung und Erweiterung verschiedener zentraler serverseitigen Services des Helsana Front Service Layers (logging-store, session-data-store).
+      - Erstellung und Weiterentwicklung von clientseitigen Komponenten des Helsana Front Service Layers auf Basis Angular JS.
+      - Dokumentieren der existierenden Microservices und REST Schnittstellen unter zur Hilfenahme von RestDocs.
+
+  - role: Application Architect & Java Developer
+    time: 2013 - 2015
+    company: Helsana Versicherungen AG
+    details: |
+      - Proaktive Mitarbeit in den Projekten.
+      - Aufbau eines Kundenselfservices Portals `myHelsana 1.0`
+        - Beratung der Fachbereiche in der Detaillierung der Anforderungen.
+        - Unterstützung der Solution Designer bei der Erarbeitung von Abteilungsübergreifenden Web IT Lösungen
+        - Design und Erstellung einer modularen, wiederverwendbaren N-Tier Applikationsarchitektur für Helsana Web Applikationen.
+        - Umsetzung dr serverseitigen Bussinesslogik auf Basis der serviceorientierten Backend Systeme.
+        - Realisierung der Security, Logging, Tracing und Monitoring Konzepte.
+      - Erweiterung und Betrieb verschiedener existierender Applikationen und Bussinessservices.
+        - Umsetzung von Businessanforderungen wie auch Refactoring des existierenden generischen Web Kampagnen Frameworks.
+        - Koordination und Fachberatung im Bereich von mobilen Applikationen.
+        - Behebung von betrieblichen Störungen in verschiedenen Web Applikationen auf Java EE Basis.
+      - Professionalisierung der Java Enterprise Web Entwicklung.
+        - Konzeption und Implementierung eines Helsana Java Frameworks fur Helsana Web Applikationen und externe Portale.
+        - Mehrfache Wiederverwendung und kontinuierliche Verbesserung des modularen Frameworks auf Basis von etablierten Java Technologien.
+        - Konzeption eines professionellen Java EE Entwicklungsumfeldes mit automatischem Qualitätsmanagement, Build und Delivery Prozessen.
+        - Aufbau eines Source Repositories mit Continuous Integration, QA-Metriken und Deliveryautomatismen.
+        - Coaching von Mitarbeiten in Themen wie Java und Java EE, Build und Delivery Prozesse.
+        
 
   - role: Application Architect & Java Developer
     time: 2007 - 2013
