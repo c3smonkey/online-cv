@@ -195,7 +195,7 @@ projects:
 
   assignments:
     - title: myHelsana
-      link: "http://helsana.ch/myhelsana"
+      link: "https://helsana.ch/myhelsana"
       tagline: "Kundenportal der Helsana Versicherung AG"
 
     - title: easySales
