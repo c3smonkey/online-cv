@@ -234,15 +234,15 @@ skills:
       level: 80%
 
     - name: TypeScript
-      level: 30%
+      level: 10%
 
-    - name: Spring Boot 1.x / 2.x
+    - name: Spring Boot
       level: 90%
 
     - name: Spring Cloud Native
       level: 70%
 
-    - name: Openshift / OKD
+    - name: Openshift / k8s
       level: 50%
 
     - name: Delivery Pipeline
