@@ -99,10 +99,13 @@ experiences:
     time: 2018 - Present
     company: Helsana Versicherungen AG
     details: |
+      - Migration von `myHelsana` OpenShift 3.x auf OpenShift 4.x. 
+      - Erweiterung von Business Features für `myHelsana 2.0` auf Basis Spring Boot und Kotlin als neuer Standard für `myHelsana` Backend Services. 
+      - Migration von Cloud Native Application (Spring Boot) auf _[Openshift](https://www.openshift.com/)_ 3.x
+      wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikation `myHelsana 2.0` mit `kustomize` und `Azure DevOps` 
+      - API bereitstellen für `Angular` Frontend, wie auch Native Mobile `iOS` und `Android` App für `myHelsana 1.9`
+      - Migration `myHelsana 1.0` N-Tier Applikationsarchitektur in Microservices Architektur.
       - Produkt Organisation `myHelsana` (BizDevOps)
-      - Migration von Cloud Native Application (Spring Boot / Kotlin) auf _[Openshift](https://www.openshift.com/)_
-      wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen.
-      - Microservices bereitstellen für `Angular` Frontend, wie auch Native Mobile `iOS` und `Android` App.
 
   - role: Application Architect & Java Developer
     time: 2015 - 2018
