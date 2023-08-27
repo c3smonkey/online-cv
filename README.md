@@ -23,7 +23,6 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://webj
   </tr>
 </table>
 
-
 ## Installation
 
 * [Fork](https://github.com/sharu725/online-cv/fork) the repository
