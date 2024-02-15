@@ -100,8 +100,8 @@ experiences:
     time: 2018 - Present
     company: Helsana Versicherungen AG
     details: |
-      - Produkt Organisation `myHelsana` (BizDevOps)
-      - Migration von Cloud Native Application (Spring Boot / Kotlin) auf _[Openshift](https://www.openshift.com/)_
+      - Lead Developer für die `myHelsana` Backend Applikationen (Spring Boot / Kotlin)
+      - Migration von Cloud Native Application (Spring Boot / Kotlin) auf _[Openshift](https://www.openshift.com/)_ 3.11 und 4.x
       wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen.
       - Microservices bereitstellen für `Angular` Frontend, wie auch Native Mobile `iOS` und `Android` App.
 
