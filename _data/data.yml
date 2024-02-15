@@ -102,8 +102,13 @@ experiences:
     details: |
       - Lead Developer für die `myHelsana` Backend Applikationen (Spring Boot / Kotlin)
       - Migration von Cloud Native Application (Spring Boot / Kotlin) auf _[Openshift](https://www.openshift.com/)_ 3.11 und 4.x
-      wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen.
+        - Erarbeitung und Umsetzung der neuen Delivery Pipeline und Containerize der Applikationen. (Kustomize, Helm, SealSecrets, Skaffold, Snyk, SonarQube)
       - Microservices bereitstellen für `Angular` Frontend, wie auch Native Mobile `iOS` und `Android` App.
+      - Aufbau Atlas MongoDB und migration der OnPrem MongoDB daten.
+        - Aufbau und erarbeiten der Logging/Monitoring zu Splunk oder E-Mail Alerts
+        - Anbindung an IAM implementiert (inkl. Rollenkonzept) und getestet
+        - Prüfung Compliance der Vorgaben durchgeführt
+        - Clientseitige Verschlüsselung (Field Level Encryption) implementiert und getestet
 
   - role: Application Architect & Java Developer
     time: 2013 - 2018
