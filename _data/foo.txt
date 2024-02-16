@@ -14,7 +14,7 @@ sidebar:
   # Sidebar links
   email: marzelwidmer@gmail.com
   #    phone: -
-#  website: blog.marcelwidmer.org/ #do not add http://
+  website: blog.marcelwidmer.org/ #do not add http://
   linkedin: marcel-widmer-180ab354
   github: marzelwidmer
   #    gitlab:
@@ -32,13 +32,13 @@ sidebar:
       level: Business fluent
 
   interests:
-    - item: Family
-      link:
-
     - item: Thai-Boxing
       link:
 
     - item: New Technology (Hacking/Coding)
+      link:
+
+    - item: Dogs
       link:
 
 career-profile:
@@ -100,41 +100,74 @@ experiences:
     time: 2018 - Present
     company: Helsana Versicherungen AG
     details: |
-      - Lead Developer für die `myHelsana` Backend Applikationen (Spring Boot / Kotlin)
-      - Migration von Cloud Native Application (Spring Boot / Kotlin) auf _[Openshift](https://www.openshift.com/)_ 3.11 und 4.x
-        - Erarbeitung und Umsetzung der neuen Delivery Pipeline und Containerize der Applikationen. (Kustomize, Helm, SealSecrets, Skaffold, Snyk, SonarQube)
+      - Produkt Organisation `myHelsana` (BizDevOps)
+      - Migration von Cloud Native Application (Spring Boot / Kotlin) auf _[Openshift](https://www.openshift.com/)_
+      wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen.
       - Microservices bereitstellen für `Angular` Frontend, wie auch Native Mobile `iOS` und `Android` App.
-      - Aufbau Atlas MongoDB und migration der OnPrem MongoDB daten.
-        - Aufbau und erarbeiten der Logging/Monitoring zu Splunk oder E-Mail Alerts
-        - Anbindung an IAM implementiert (inkl. Rollenkonzept) und getestet
-        - Prüfung Compliance der Vorgaben durchgeführt
-        - Clientseitige Verschlüsselung (Field Level Encryption) implementiert und getestet
-      - Mitarbeit und gestaltung Agilen Vorgehensmethoden (Scrum / Kanban)
+
   - role: Application Architect & Java Developer
     time: 2013 - 2018
     company: Helsana Versicherungen AG
     details: |
-      - Definition wie auch Ausarbeitung der Grob- und Detailkonzeption der Helsana Front Service Applikationsarchitektur, inklusive der Umsetzung auf Basis Spring und Angular.
-      - Review der erstellten Lieferobjekte wie auch Definition und Umsetzung von Verbesserungsmassnahmen in der Basisarchitektur wie auch konkreten Businessapplikationen.
-      - Mitaufbau und erarbeiten einer BizDevOps Produkt Entwicklung inklusive Pilotierung in `myHelsana`.
-      - Migration des Helsana Endkunden Self-Service Portals von einer Enterprise Monolith Applikation zu einer Microservice Architekur (Spring Boot / SpringCloud).
-      - Mitarbeit zum Aufbau einer Java Delivery Pipeline (Gitlab CI / CD und Jenkins).
-      - Koordination interner und externer Java-Entwickler in Umsetzungsprojekten im Rahmen von agilen Vorgehensmethoden.
-      - Pilotierung von Test-Driven Development (TDD) mit Spring Cloud Contract.
-      - Erarbeiten der `Online Applikation Architektur` (Front Service Layer FSL) für die Helsana.
-      - Anforderungsanalyse, Lösungsdesign wie auch Implementierung von Business Anforderungen für den Helsana Front Service Layer (FSL) auf Basis einer Microservice Architekur durch die Technologien Spring Boot / Spring Cloud und Kotlin
-      - Review der erstellten Lieferobjekte wie auch Definition und Umsetzung von Verbesserungsmassnahmen in der Basisarchitektur wie auch konkreten Businessapplikationen.
-      - Mitaufbau und erarbeiten einer BizDevOps Produkt Entwicklung inklusive der Pilotierung bei Helsana Endkunden Self-Service Portals (myHelsana)
-      - Migration des Helsana Endkunden Self-Service Portals (myHelsana) von einer Enterprise Monolith Applikation zu einer Microservice Architekur (Spring Boot/ Spring Cloud)  
-        wie auch deren Umsetzung in diversen Projekten n-tier Architecture wie auch Microservices
-      - Mitarbeite diversen Business anforderung im Breich Web Applikation mit Java Backends.   
-      - Mitarbeite des Java Backends und erarbeiten eines Java Helsana Framework in `myHelsana 1.0` 
-      - Application Architect für `myHelsana 1.0`
-      - Mitarbeit Kampagne Framework (JSF)
-      - Java Lead Engineer, Koordination interne und externe Java Entwickler. Etablieren von Best-Practices und State of the Art
-      - Etablieren von Best-Practices und State of the Art in der Helsana für die Java Entwickler (Maven / Jenkins CI/CD / Git / Sonar / JIRA)
 
-- role: Application Architect & Java Developer
+
+
+      - Conta  zum neuen Delivery Pipeline (Azure DevOps)
+
+      - Mitarbeit zum neuen Delivery Pipeline (Azure DevOps)
+      - Pilotierung von Test-Driven Development (TDD) mit Spring Cloud Contract
+      - Mitaufbau und erarbeiten einer BizDevOps Produkt Entwicklung inklusive der Pilotierung bei Helsana Endkunden Self-Service Portals (myHelsana).
+      - Anforderungsanalyse, Lösungsdesign wie auch Implementierung von Business Anforderungen für den Helsana Front Service Layer (FSL) auf Basis einer Microservice
+        Architekur durch die Technologien Spring Boot / Spring Cloud und Kotlin.
+      - Migration des Helsana Endkunden Self-Service Portals (myHelsana 1.9) von einer Enterprise Monolith Applikation zu einer Microservice Architekur (Spring Boot / Spring Cloud).
+      - Koordination interner und externer Java-Entwickler in Umsetzungsprojekten im Rahmen von agilen Vorgehensmethoden.
+      - Erarbeiten der `Online Applikation Architektur` (Front Service Layer FSL) für die Helsana.
+      - Review der erstellten Lieferobjekte wie auch Definition und Umsetzung von Verbesserungsmassnahmen in der Basisarchitektur wie auch konkreten Businessapplikationen.
+      - Java Lead Engineer, Koordination interne und externe Java Entwickler.
+
+
+  - Mitarbeit zum Aufbau einer Java Delivery Pipeline (Gitlab CI / CD und Jenkins)
+
+
+
+  Architecture mit Spring Boot und Spring Cloud Native Libraries wie Zuul (Edge Server etc.)
+  - Java Lead Engineer, Koordination interne und externe Java Entwickler. Etablieren von Best-Practices und State of the Art
+  - JIRA
+  - Git
+  - Jenkins CI/CD
+  - Maven
+  - Sonar
+  - Spring Boot
+
+
+  - role: Kotlin - Java Backend Developer
+    time: 2018 - Present
+    company: Helsana Versicherungen AG
+    details: |
+      - Produkt Organisation `myHelsana` (BizDevOps)
+      - Migration von Cloud Native Application (Spring Boot / Kotlin) auf _[Openshift](https://www.openshift.com/)_
+      wie auch erarbeiten der neuen Delivery Pipeline und Containerize der Applikationen.
+      - Microservices bereitstellen für `Angular` Frontend, wie auch Native Mobile `iOS` und `Android` App.
+
+  - role: Application Architect & Java Developer
+    time: 2013 - 2018
+    company: Helsana Versicherungen AG
+    details: |
+  - Erarbeiten der `Online Applikation Architektur` (Front Service Layer FSL) für die Helsana.
+  - Anforderungsanalyse, Lösungsdesign wie auch Implementierung von Business Anforderungen für den Helsana Front Service Layer (FSL) auf Basis einer Microservice Architekur durch die Technologien Spring Boot / Spring Cloud und Kotlin.
+  - Review der erstellten Lieferobjekte wie auch Definition und Umsetzung von Verbesserungsmassnahmen in der Basisarchitektur wie auch konkreten Businessapplikationen.
+  - Mitaufbau und erarbeiten einer BizDevOps Produkt Entwicklung inklusive der Pilotierung bei Helsana Endkunden Self-Service Portals (myHelsana).
+  - Migration des Helsana Endkunden Self-Service Portals (myHelsana) von einer Enterprise Monolith Applikation zu einer Microservice Architekur (Spring Boot / Spring Cloud).
+  - Pilotierung von Test-Driven Development (TDD) mit Spring Cloud Contract
+
+
+
+
+
+
+
+
+  - role: Application Architect & Java Developer
     time: 2007 - 2013
     company: Credit Suisse
     details: |
