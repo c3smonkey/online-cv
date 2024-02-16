@@ -114,7 +114,6 @@ experiences:
     time: 2013 - 2018
     company: Helsana Versicherungen AG
     details: |
-      
       - Definition wie auch Ausarbeitung der Grob- und Detailkonzeption der Helsana Front Service Applikationsarchitektur, inklusive der Umsetzung auf Basis Spring und Angular.
       - Review der erstellten Lieferobjekte wie auch Definition und Umsetzung von Verbesserungsmassnahmen in der Basisarchitektur wie auch konkreten Businessapplikationen.
       - Mitaufbau und erarbeiten einer BizDevOps Produkt Entwicklung inklusive Pilotierung in `myHelsana`.
@@ -122,30 +121,18 @@ experiences:
       - Mitarbeit zum Aufbau einer Java Delivery Pipeline (Gitlab CI / CD und Jenkins).
       - Koordination interner und externer Java-Entwickler in Umsetzungsprojekten im Rahmen von agilen Vorgehensmethoden.
       - Pilotierung von Test-Driven Development (TDD) mit Spring Cloud Contract.
-    
-    
-    
-    
       - Erarbeiten der `Online Applikation Architektur` (Front Service Layer FSL) für die Helsana.
       - Anforderungsanalyse, Lösungsdesign wie auch Implementierung von Business Anforderungen für den Helsana Front Service Layer (FSL) auf Basis einer Microservice Architekur durch die Technologien Spring Boot / Spring Cloud und Kotlin
       - Review der erstellten Lieferobjekte wie auch Definition und Umsetzung von Verbesserungsmassnahmen in der Basisarchitektur wie auch konkreten Businessapplikationen.
       - Mitaufbau und erarbeiten einer BizDevOps Produkt Entwicklung inklusive der Pilotierung bei Helsana Endkunden Self-Service Portals (myHelsana)
-      
       - Migration des Helsana Endkunden Self-Service Portals (myHelsana) von einer Enterprise Monolith Applikation zu einer Microservice Architekur (Spring Boot/ Spring Cloud)  
         wie auch deren Umsetzung in diversen Projekten n-tier Architecture wie auch Microservices
-        
-      
-      
-      
       - Mitarbeite diversen Business anforderung im Breich Web Applikation mit Java Backends.   
       - Mitarbeite des Java Backends und erarbeiten eines Java Helsana Framework in `myHelsana 1.0` 
       - Application Architect für `myHelsana 1.0`
-      
       - Mitarbeit Kampagne Framework (JSF)
       - Java Lead Engineer, Koordination interne und externe Java Entwickler. Etablieren von Best-Practices und State of the Art
       - Etablieren von Best-Practices und State of the Art in der Helsana für die Java Entwickler (Maven / Jenkins CI/CD / Git / Sonar / JIRA)
-  
-
 
 - role: Application Architect & Java Developer
     time: 2007 - 2013
