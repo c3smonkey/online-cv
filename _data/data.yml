@@ -14,7 +14,7 @@ sidebar:
   # Sidebar links
   email: marzelwidmer@gmail.com
   #    phone: -
-  website: blog.marcelwidmer.org/ #do not add http://
+#  website: blog.marcelwidmer.org/ #do not add http://
   linkedin: marcel-widmer-180ab354
   github: marzelwidmer
   #    gitlab:
@@ -32,13 +32,13 @@ sidebar:
       level: Business fluent
 
   interests:
+    - item: Family
+      link:
+
     - item: Thai-Boxing
       link:
 
     - item: New Technology (Hacking/Coding)
-      link:
-
-    - item: Dogs
       link:
 
 career-profile:
@@ -109,7 +109,7 @@ experiences:
         - Anbindung an IAM implementiert (inkl. Rollenkonzept) und getestet
         - Prüfung Compliance der Vorgaben durchgeführt
         - Clientseitige Verschlüsselung (Field Level Encryption) implementiert und getestet
-
+      - Mitarbeit und gestaltung Agilen Vorgehensmethoden (Scrum / Kanban)
   - role: Application Architect & Java Developer
     time: 2013 - 2018
     company: Helsana Versicherungen AG
